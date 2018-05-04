@@ -1,0 +1,2 @@
+# eikmarizal
+Personal blog
