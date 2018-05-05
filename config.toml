@@ -2,7 +2,7 @@ baseURL = "https://eikmarizal.rbind.io/"
 languageCode = "en-us"
 title = "My Portfolio Website"
 theme = "hugo-lodi-theme"
-googleAnalytics = "UA-XXXXXXXX-Y"
+googleAnalytics = "UA-118757786-1"
 
 [params]
     theme_color = "#574CDD"
