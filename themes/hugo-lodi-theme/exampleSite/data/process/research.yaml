@@ -1,4 +1,4 @@
 weight: 1
-title: "Research"
+title: "Gathering Data"
 icon: "book.svg"
-description: "I collaborate with stakeholders, ask meaningful questions, probe user goals, motivations, to understand context."
+description: "This step is very crucial as the quality and quantity of data gathered will directly determine how good the predictive model will turn out to be. The data collected is then tabulated and called as Training Data."
