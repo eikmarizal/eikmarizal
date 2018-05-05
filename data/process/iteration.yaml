@@ -1,4 +1,4 @@
 weight: 5
-title: "Iteration"
+title: "Parameter Tuning"
 icon: "wand.svg"
-description: "I perform research through series of usability tests and A/B testing, evaluate design with analytics, and iterate."
+description: "The adjustment or tuning of these parameters depends on the dataset, model, and the training process."
