@@ -1,4 +1,4 @@
 weight: 4
-title: "Training and Evaluation"
+title: "Train and Evaluate"
 icon: "closetag.svg"
-description: "Data is used to incrementally improve the model and evaluation allows the testing of the model against unseen data"
+description: "Data is used to incrementally improve the model and evaluation allows the testing of the model against unseen data."

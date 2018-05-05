@@ -1,4 +1,4 @@
-baseURL = "https://eikmarizal.netlify.com/"
+baseURL = "https://eikmarizal.rbind.io/"
 languageCode = "en-us"
 title = "My Portfolio Website"
 theme = "hugo-lodi-theme"
@@ -30,8 +30,8 @@ googleAnalytics = "UA-XXXXXXXX-Y"
 
 [params.process]
     enable = true
-    title = "My Process"
-    subtitle = "Full Process Design"
+    title = "Process Design"
+    subtitle = "Machine Learning"
 
 [params.case_studies]
     enable = true
