@@ -1,4 +1,4 @@
 weight: 2
 title: "Data Preparation"
 icon: "rulerpencil.svg"
-description: "Data preparation, where the data is loaded into a suitable place and then prepared for use in machine learning training."
+description: "Data is loaded and then prepared for use in machine learning training."

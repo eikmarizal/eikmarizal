@@ -1,4 +1,4 @@
 weight: 1
 title: "Gathering Data"
 icon: "book.svg"
-description: "This step is very crucial as the quality and quantity of data gathered will directly determine how good the predictive model will turn out to be. The data collected is then tabulated and called as Training Data."
+description: "Data gathered will directly determine how good the predictive model will turn out to be."
